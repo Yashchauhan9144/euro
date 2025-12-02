@@ -1,0 +1,18 @@
+// common style link
+@import "./color";
+@import "./mixins";
+@import "./common";
+@import "aos/dist/aos.css";
+// Pages CSS
+@import "./pages/home";
+@import "./pages/about-us";
+@import "./pages/ferras";
+@import "./pages/contact-us";
+@import "./pages/terms-condition";
+@import "./pages/privacy-policy";
+
+// header style
+@import "./header/header";
+
+// footer style
+@import "./footer/footer";
